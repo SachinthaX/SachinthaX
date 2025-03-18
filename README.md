@@ -7,7 +7,7 @@
 <div align="center"><strong>Passionate Developer | Tech Enthusiast | Lifelong Learner</strong></div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=SachinthaX&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
 </p>
 
 <hr>
