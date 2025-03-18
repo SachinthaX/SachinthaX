@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/coding-animation.gif?raw=true" width="180" style="display: inline-block;">
+  <img src="https://github.com/SachinthaX/SachinthaX/blob/main/coding-animation.gif?raw=true" width="180" style="display: inline-block;">
 </div>
 
-# <div align="center">👋 Hello, I'm [Your Name]</div>
+# <div align="center">👋 Hello, I'm Nipuna Sachintha</div>
 
 <div align="center"><strong>Passionate Developer | Tech Enthusiast | Lifelong Learner</strong></div>
 
@@ -14,19 +14,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer with a strong interest in [your main interests, e.g., web development, machine learning, etc.]. My journey in tech has been driven by curiosity and a desire to create meaningful solutions.
+I'm a passionate software developer with a strong interest in full-stack web development. My journey in tech has been driven by curiosity and a desire to create meaningful solutions.
 
 ### 💡 What I Do
 
 - **Software Development**: Building robust and scalable applications with modern technologies
 - **Problem Solving**: Tackling complex challenges with efficient and elegant solutions
 - **Continuous Learning**: Always expanding my knowledge and staying updated with the latest tech trends
-
-### 🌱 Currently Learning
-
-- [Technology/Language 1]
-- [Technology/Language 2]
-- [Framework/Tool]
 
 ### 🎯 Goals
 
@@ -64,62 +58,25 @@ I'm dedicated to crafting clean, efficient code and creating technologies that m
 
 <hr>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-<hr>
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/h-n-sachintha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
-  </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:nipunasachintha77@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <hr>
 
-## 💼 Featured Projects
-
-<a href="https://github.com/yourusername/project-name">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-name&theme=dark" />
-</a>
-<a href="https://github.com/yourusername/another-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=another-project&theme=dark" />
-</a>
-
-<hr>
 
 ## 💰 Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+  <a href="https://buymeacoffee.com/sachinthax" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </p>
