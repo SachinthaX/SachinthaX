@@ -1,3 +1,12 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=[Your%20Name]&fontSize=60&animation=fadeIn" alt="banner" />
+</div>
+
+<div align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/[your-username]/[your-username]/blob/main/[your-gif].gif?raw=true">
+    <img src="https://github.com/[your-username]/[your-username]/blob/main/[your-gif].gif?raw=true" width="200" style="border-radius: 50%; box-shadow: 0 0 15px #00ffcc;" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://github.com/SachinthaX/SachinthaX/blob/main/coding-animation.gif?raw=true" width="180" style="display: inline-block;">
