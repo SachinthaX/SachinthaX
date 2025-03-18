@@ -11,7 +11,6 @@
 <div align="center">
   <img src="https://github.com/SachinthaX/SachinthaX/blob/main/coding-animation.gif?raw=true" width="180" style="display: inline-block;">
 </div>
-<br>
 
 # <div align="center">👋 Hello, I'm Nipuna Sachintha</div>
 
