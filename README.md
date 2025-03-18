@@ -1,24 +1,3 @@
-<div align="center">
-  <a href="your-gif-link-here">
-    <img src="your-gif-or-image" width="200" style="border-radius: 50%"/>
-  </a>
-</div>
-
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">🔥 Passionate [Your Profession] from [Your Location]</h3>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-stack+Developer;UI%2FUX+Enthusiast;Open-Source+Contributor;Tech+Writer" alt="Typing SVG" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blue&style=flat" alt="Profile views" /> 
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/twitter/follow/yourhandle?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</div>
 
 <div align="center">
   <img src="https://github.com/SachinthaX/SachinthaX/blob/main/coding-animation.gif?raw=true" width="180" style="display: inline-block;">
@@ -27,6 +6,12 @@
 # <div align="center">👋 Hello, I'm Nipuna Sachintha</div>
 
 <div align="center"><strong>Passionate Developer | Tech Enthusiast | Lifelong Learner</strong></div>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-stack+Developer;UI%2FUX+Enthusiast;Open-Source+Contributor;Tech+Writer" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SachinthaX&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
