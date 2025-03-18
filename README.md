@@ -1,4 +1,10 @@
 <div align="center">
+  <a href="your-gif-link-here">
+    <img src="your-gif-or-image" width="200" style="border-radius: 50%"/>
+  </a>
+</div>
+
+<div align="center">
   <img src="https://github.com/SachinthaX/SachinthaX/blob/main/coding-animation.gif?raw=true" width="180" style="display: inline-block;">
 </div>
 
