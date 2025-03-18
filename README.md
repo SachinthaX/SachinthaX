@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**SachinthaX/SachinthaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
   <img src="https://github.com/yourusername/yourusername/blob/main/coding-animation.gif?raw=true" width="180" style="display: inline-block;">
 </div>
@@ -135,7 +119,7 @@ I'm dedicated to crafting clean, efficient code and creating technologies that m
 ## 💰 Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+  <a href="https://buymeacoffee.com/sachinthax" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </p>
