@@ -107,13 +107,6 @@ I'm dedicated to crafting clean, efficient code and creating technologies that m
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[your-username]&theme=onedark&margin-w=15&no-frame=true" alt="Trophies" />
-</p>
-
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twist" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&animation=twist" alt="footer" />
 </div>
