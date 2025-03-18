@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SachinthaX&fontSize=60&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=SachinthaX&fontSize=60&animation=fadeIn" alt="banner" />
 </div>
 
 <div align="center">
@@ -108,5 +108,5 @@ I'm dedicated to crafting clean, efficient code and creating technologies that m
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&animation=twist" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twist" alt="footer" />
 </div>
