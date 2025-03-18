@@ -1,47 +1,63 @@
 <div align="center">
-  <a href="[Your GIF URL]">
-    <img src="[Your GIF URL]" width="180" style="display: inline-block; border-radius: 50%;">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/[your-username]/[your-username]/blob/main/[your-image].gif?raw=true">
+    <img src="https://github.com/[your-username]/[your-username]/blob/main/[your-image].gif?raw=true" width="180" style="display: inline-block;">
   </a>
-  <h1>Hi 👋, I'm [Your Name]</h1>
-  <h3>[Your Tagline - e.g., "Passionate about building cool things"]</h3>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </div>
 
-<hr>
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
 
-### 🚀 About Me
-- 🎓 [Your Education/Current Status - e.g., "Computer Science student at XYZ University"]
-- 💡 [Interesting fact or passion - e.g., "I love turning coffee into code"]
-- 🌍 [Location - e.g., "Based in Berlin, Germany"]
+<h3 align="center">[A short description about yourself, e.g., "I'm a passionate developer creating innovative solutions"]</h3>
 
-### 🛠️ Skills & Tools
-<!-- Add your skills with icons -->
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <!-- Add more tool icons here -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile%20views&color=0e75b6&style=flat" alt="[your-username]" /> </p>
+
+---
+
+<h3 align="left">About Me:</h3>
+
+## 🚀 [Your Tagline, e.g., Tech Enthusiast]
+
+[Your passion or focus, e.g., "Driven by a love for coding and solving real-world problems."]
+
+### 💻 [Your Skill/Area 1, e.g., Web Development]
+- [Description, e.g., "Experienced in building responsive websites with HTML, CSS, and JavaScript."]
+
+### 🤖 [Your Skill/Area 2, e.g., Machine Learning]
+- [Description, e.g., "Exploring AI with Python and tools like TensorFlow."]
+
+### 🌱 Learning
+- [What you're learning, e.g., "Currently diving into cloud computing with AWS."]
+
+### 🎯 Career Goal
+- [Your goal, e.g., "Aiming to build impactful projects and contribute to open-source."]
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="[your-linkedin-url]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[your-linkedin-username]" height="30" width="40" /></a>
+  <a href="[your-instagram-or-twitter-url]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/[instagram-or-twitter].svg" alt="[your-username]" height="30" width="40" /></a>
+  <!-- Add more social links here if you have them -->
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Streak Stats"/>
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <!-- Add more icons for tools you use (find them at https://github.com/devicons/devicon) -->
 </p>
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_PROFILE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/YOUR_HANDLE" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <!-- Add more social links -->
-</p>
+---
 
-### 🎯 Current Focus
-- [Project 1]
-- [Project 2]
-- [Learning Goal]
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[your-username]&show_icons=true&locale=en&layout=compact" alt="[your-username]" /></p>
 
-<!-- Add your custom footer -->
-<p align="center">
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-008CBA?style=for-the-badge" alt="Portfolio"/></a>
-</p>
+---
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&" alt="[your-username]" /></p>
+
+---
+
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=[your-username]" alt="[your-username]" /></p>
