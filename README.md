@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=nipuna&fontSize=60&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SachinthaX&fontSize=60&animation=fadeIn" alt="banner" />
 </div>
 
 <div align="center">
@@ -11,6 +11,7 @@
 <div align="center">
   <img src="https://github.com/SachinthaX/SachinthaX/blob/main/coding-animation.gif?raw=true" width="180" style="display: inline-block;">
 </div>
+<br>
 
 # <div align="center">👋 Hello, I'm Nipuna Sachintha</div>
 
